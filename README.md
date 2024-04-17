@@ -16,7 +16,7 @@ To gauge public opinion on privacy and ethical discourse in the digital age.
 
 Dataset The dataset consists of survey responses collected through an online questionnaire. Respondents provided insights into their experiences and perceptions related to privacy and ethics in BDA.
 
-Analysis Data analysis was performed using R. The code includes functions to generate frequency tables, calculate descriptive statistics, and create visualizations to better understand the collected data.
+Analysis Data analysis was performed using Python. The code includes functions to generate frequency tables, calculate descriptive statistics, and create visualizations to better understand the collected data.
 
 Structure of the Repository /data: Contains the raw data from the survey in CSV format. /scripts: Python scripts used for data analysis and machine learning. /docs: Documentation and additional resources. README.md: Overview and guide for this project.
 
