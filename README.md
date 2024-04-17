@@ -1,4 +1,5 @@
 MSc-Project- Python language Script
+
 These are the files associated with my survey dataset analysis on Privacy and Ethical Considerations in Big Data Analytics
 
 Project Title: Privacy and Ethical Considerations in Big Data Analytics Project Description This project investigates public perceptions and concerns regarding privacy and ethical considerations in the era of Big Data Analytics (BDA). Utilizing a quantitative research approach, the study explores the viewpoints of individuals on privacy issues, trust in online service providers, awareness of ethical considerations, and general attitudes towards BDA. The research is driven by a comprehensive survey disseminated to a diverse population, with data analyzed using R for statistical insights.
