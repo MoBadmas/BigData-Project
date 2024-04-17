@@ -22,4 +22,4 @@ Structure of the Repository /data: Contains the raw data from the survey in CSV 
 
 License This project is open-sourced under the MIT License.
 
-Contact For any further queries, please contact Badamasi Hassan Mohammed at Badamasi.H.Mohammed@student.shu.ac.uk.
+Contact For any further queries, please contact Badamasi Hassan Mohammed at mobadmas@gmail.com.
