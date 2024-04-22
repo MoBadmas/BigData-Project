@@ -19,9 +19,12 @@ Machine Learning Algorithms and Data Analytics were performed using Python.
 
 Repository Structure:
 
-/data: Contains raw survey data in CSV format.
-/scripts: Python scripts utilized for data analysis and machine learning.
+/Bigdataprivacy: Contains raw survey data in CSV format.
+
+/BDAproject: Python scripts utilized for data analysis and machine learning.
+
 README.md: Overview and guidance for this project.
+
 License: This project is open-sourced under the MIT License.
 
 Contact: For further inquiries, please reach out to Badamasi Hassan Mohammed at mobadmas@gmail.com.
